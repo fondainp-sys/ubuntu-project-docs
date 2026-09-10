@@ -290,3 +290,4 @@ If unsure, [contact the Translations team](https://wiki.ubuntu.com/Translations/
 ## Getting advice
 
 Still have questions? Ask in {matrix}`Matrix <discuss>`.
+E: dpkg a été interrompu. Il est nécessaire d'utiliser « dpkg --configure -a » pour corriger le problème. 
