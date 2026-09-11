@@ -1,4 +1,6 @@
-(how-to-report-a-bug)=
+mpossible d'obtenir le verrou:
+
+E: dpkg a été interrompu. Il est nécessaire d'utiliser « dpkg --configure -a » pour corriger le problème. (how-to-report-a-bug)=
 # How to report a bug
 
 ```{note}
